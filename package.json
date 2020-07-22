@@ -1,0 +1,23 @@
+{
+  "name": "gsn-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/network": "^0.4.2"
+  },
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts-ethereum-package": "2.4.0",
+    "@openzeppelin/gsn-helpers": "^0.2.0",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "@truffle/hdwallet-provider": "^1.0.39",
+    "ganache-cli": "^6.9.1"
+  }
+}
