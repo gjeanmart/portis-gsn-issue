@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/portis-gsn-issue/static/js/main.d36057dc.chunk.js",
+    "main.js.map": "/portis-gsn-issue/static/js/main.d36057dc.chunk.js.map",
+    "runtime-main.js": "/portis-gsn-issue/static/js/runtime-main.852cc84d.js",
+    "runtime-main.js.map": "/portis-gsn-issue/static/js/runtime-main.852cc84d.js.map",
+    "static/js/2.24a149a5.chunk.js": "/portis-gsn-issue/static/js/2.24a149a5.chunk.js",
+    "static/js/2.24a149a5.chunk.js.map": "/portis-gsn-issue/static/js/2.24a149a5.chunk.js.map",
+    "index.html": "/portis-gsn-issue/index.html",
+    "precache-manifest.b70bf713316154951ab2c441aac19b43.js": "/portis-gsn-issue/precache-manifest.b70bf713316154951ab2c441aac19b43.js",
+    "service-worker.js": "/portis-gsn-issue/service-worker.js",
+    "static/js/2.24a149a5.chunk.js.LICENSE.txt": "/portis-gsn-issue/static/js/2.24a149a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852cc84d.js",
+    "static/js/2.24a149a5.chunk.js",
+    "static/js/main.d36057dc.chunk.js"
+  ]
+}
