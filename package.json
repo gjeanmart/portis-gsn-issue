@@ -17,7 +17,7 @@
     "@openzeppelin/contracts-ethereum-package": "2.4.0",
     "@openzeppelin/gsn-helpers": "^0.2.0",
     "@openzeppelin/upgrades": "^2.8.0",
-    "@truffle/hdwallet-provider": "^1.0.39",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "ganache-cli": "^6.9.1"
   }
 }
